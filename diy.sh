@@ -14,4 +14,4 @@ git clone https://github.com/z826540272/openwrt-smartdns.git package/smartdns
 # git clone -b lede https://github.com/pymumu/luci-app-smartdns.git feeds/luci/applications/luci-app-smartdns
 git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
 # git clone https://github.com/kenzok8/small.git package/small
-./scripts/feeds update -a && ./scripts/feeds install -a
+
