@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt
+name: 为 WR1200JS 构建 OpenWrt
 
 on:
   repository_dispatch:
