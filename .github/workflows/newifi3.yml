@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt NEWifi3
+name: Newifi3 OpenWrt 构建
 
 on:
   repository_dispatch:
